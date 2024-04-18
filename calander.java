@@ -1,4 +1,4 @@
-public class calander{
+public class Calander{
     public String firstPeriod;
     public String secondSportPeriod;
     public String thirdPeriod;
